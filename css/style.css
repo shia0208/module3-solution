@@ -12,17 +12,17 @@ div section {
 }
 #section-1{
     background-color: red;
-    color: white;
+    font-color: white;
 }
 
 #section-2 {
     background-color: blue;
-    color: white;
+    font-color: white;
 }
 
 #section-3 {
     background-color: purple;
-    color: white;
+    font-color: white;
 }
 
 #text > h3 {
