@@ -11,15 +11,15 @@ div section {
     padding: 10px;
 }
 #section-1{
-    background-color: red;
+    background-color: lightred;
 }
 
 #section-2 {
-    background-color: blue;
+    background-color: lightblue;
 }
 
 #section-3 {
-    background-color: purple;
+    background-color: lightpurple;
 }
 
 #text > h3 {
