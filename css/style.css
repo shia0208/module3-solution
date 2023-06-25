@@ -32,4 +32,5 @@ div section {
 #header-nav .navbar-brand {
     position: absolute;
     left: 10px;
+    background-color: purple;
 }
