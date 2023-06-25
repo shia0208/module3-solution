@@ -3,7 +3,6 @@
 }
 
 #nav-list > li {
-    background-color: pink;
     text-align: center;
 }
 
@@ -28,6 +27,7 @@ div section {
 
 #text > h3 {
     margin-bottom: 15px;
+    background-color: purple;
 }
 
 #header-nav .navbar-brand {
