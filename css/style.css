@@ -9,7 +9,7 @@
 div section {
     margin: 10px;
     padding: 10px;
-    background-color: pink;
+    background-color: yellow;
 }
 #section-1{
     background-color: red;
@@ -33,5 +33,5 @@ div section {
 #header-nav .navbar-brand {
     position: absolute;
     left: 10px;
-    background-color: pink;
+    background-color: yellow;
 }
